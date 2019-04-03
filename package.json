@@ -1,0 +1,24 @@
+{
+  "name": "webdriverio_selenium3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rrrainbows/webdriverio_selenium3.git"
+  },
+  "author": "Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rrrainbows/webdriverio_selenium3/issues"
+  },
+  "homepage": "https://github.com/rrrainbows/webdriverio_selenium3#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "selenium-standalone": "^6.15.3",
+    "webdriverio": "^4.13.2"
+  }
+}
